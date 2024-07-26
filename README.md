@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="hhttps://cdn.discordapp.com/attachments/734728994842345545/1241086735283126343/cc94c1da3aab7236887cc5be9a0760aa.png?ex=66a3e317&is=66a29197&hm=0620ad877388438c28dff23357ed5900f74d2f06062011bcd2ee728661b807c0&" />
 &nbsp;&nbsp;&nbsp;
 
 
