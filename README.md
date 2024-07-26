@@ -1,8 +1,3 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="hhttps://cdn.discordapp.com/attachments/734728994842345545/1241086735283126343/cc94c1da3aab7236887cc5be9a0760aa.png?ex=66a3e317&is=66a29197&hm=0620ad877388438c28dff23357ed5900f74d2f06062011bcd2ee728661b807c0&" />
-&nbsp;&nbsp;&nbsp;
-
-
 <p align="center"> 🐈 I am currently studying programming, focusing on Java, HTML, CSS, and TypeScript. My journey into the world of coding has been both challenging and rewarding, as I continually expand my knowledge and skills in these languages. By mastering these technologies, I aim to create dynamic and responsive web applications, contributing to the ever-evolving field of software development.
 
 </p>&nbsp;
